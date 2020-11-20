@@ -1,4 +1,6 @@
 # OMconsumption
 Code for stochastic 0D and water column 1D models of microbial consumption of organic matter.
 
-Note: the 4 Julia files are for the stochastic 0D model. Run the "run.....jl" code, which uses the "ccm*.jl" code.
+The stochastic 0D model folder containts 4 Julia files. Run the "run.....jl" codes, which uses the "ccm*.jl" codes.
+
+The water column 1D model folder contains one Fortran file to run. The rest are input files into the model.
